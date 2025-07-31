@@ -1,0 +1,5 @@
+# BMI Calc  Formula=a/(b*b)
+a=int(input("Enter weight in kg= "))
+b=float(input("Enter height in meter= "))
+bmi=int((a)//((b)**2))
+print("weight= ",a,"kg","\nheight= ",b,"m","\nBMI= ",bmi,"kg/m^2")
