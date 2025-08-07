@@ -1,0 +1,6 @@
+f1=open("f2.txt","w+")
+f1.write("Hey, Hello, How r u")
+print(f1.tell())
+f1.seek(0)
+print(f1.read())
+f1.close()

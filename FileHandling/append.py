@@ -1,0 +1,11 @@
+# f1=open("f3.txt","a")
+# f1.write("Sadhu")
+# # print(f1.read())
+
+f1=open("f3.txt","a+")
+print(f1.tell())
+f1.write("Sunanda")
+print(f1.tell())
+f1.seek(0)
+print(f1.read())
+f1.close()
