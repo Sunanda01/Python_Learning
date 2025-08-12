@@ -1,0 +1,13 @@
+{
+    "name": "Alice",
+    "age": 25,
+    "is_student": false,
+    "skills": [
+        "Python",
+        "ML"
+    ],
+    "address": {
+        "city": "Delhi",
+        "pin": 110001
+    }
+}
