@@ -37,5 +37,5 @@ ax[2].grid(color="gray",linestyle="--")
 
 plt.tight_layout()
 plt.suptitle("Subplots Example",y=1)
-plt.savefig("scatter_plot.png",dpi=300,bbox_inches="tight")
+plt.savefig("sub_plot.png",dpi=300,bbox_inches="tight")
 plt.show()
