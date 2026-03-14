@@ -1,8 +1,0 @@
-langchain
-python-dotenv
-pypdf
-chromadb
-langchain_community
-streamlit 
-langchain-ollama
-requests
